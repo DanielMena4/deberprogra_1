@@ -2,6 +2,7 @@
 #include<ctype.h>
 #include<string.h>
 #include<conio.h>
+#include<stdlib.h>
 
 int validacion(char numero[4]){
     for(int i = 0; i < strlen(numero);i++)
